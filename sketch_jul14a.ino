@@ -14,7 +14,7 @@ void setup() {
   Serial.begin(115200);
   delay(1000);
 
-  // I2C 引脚（你的接法）
+  // I2C 
   Wire.begin(17, 18);
 
   // 初始化 OLED
