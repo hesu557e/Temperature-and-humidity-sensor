@@ -40,9 +40,3 @@ SCL → GPIO18
 
 ---
 
-## Notes
-
-- Both devices share the same I²C bus  
-- Use 3.3 V only (not 5 V)  
-- Initialize I²C in code:
-
